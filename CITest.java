@@ -7,6 +7,7 @@ public class CITest {
         list.add(13);
         list.add(-3);
         list.add(6);
+        list.add(9);
         list.forEach(System.out::println);
     }
 }
